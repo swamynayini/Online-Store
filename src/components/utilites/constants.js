@@ -1,0 +1,1 @@
+export const SEARCH_URL = "https://cdn-icons-png.flaticon.com/512/54/54481.png"
